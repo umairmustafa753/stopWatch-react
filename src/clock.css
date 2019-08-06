@@ -1,0 +1,19 @@
+*{
+    text-align: center;
+    background-color: rgb(24, 30, 43);
+    color: white;
+}
+.container{
+    margin-top: 16%;
+}
+.para{
+    margin-top: 0;
+    margin-left: 250px;
+    font-size: 100%;
+}
+span{
+    font-size: 70px;
+}
+.paraStyle{
+    font-size: 50px;
+}
