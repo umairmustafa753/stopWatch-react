@@ -118,6 +118,7 @@ reset = () => {
     //setting mSec to 0.
     this.setState({countMSec: 0});
     //displaying in browser. 
+    document.getElementById("lapseInfo").innerHTML = "";
     document.getElementById("mSecCounter").innerHTML = "00";
     document.getElementById("secCounter").innerHTML = "00";    
     document.getElementById("minCounter").innerHTML = "00";
